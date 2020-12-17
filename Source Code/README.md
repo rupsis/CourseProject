@@ -153,7 +153,8 @@ Directory:
         \- line.toml
         ... data
 ```
-A test and train directory need to exist with a `line.toml` file which specifies the metaData
+A test and train directory need to exist with a `line.toml` file which specifies the metaData. 
+Note: the test and train dataset are too large to be uploaded to this repo. Please see the link above to download the dataset. You need to put `line.toml` file in the downloaded train dataset in order for build_courpse to create the index.
 
 ```
 // line.toml
