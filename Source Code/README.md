@@ -164,10 +164,7 @@ The train files can be obtained from https://drive.google.com/file/d/1E_Y-MkNvoO
 
 type = "line-corpus"
 
-metadata = [{name = "uid", type = "string"},
-            {name = "title", type = "string"},
-            {name = "abstract", type = "string"},
-            {name = "introduction", type = "string"}]
+metadata = [{name = "uid", type = "string"}]
 
 ```
 
