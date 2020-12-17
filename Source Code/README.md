@@ -154,6 +154,7 @@ Directory:
         ... data
 ```
 A test and train directory need to exist with a `line.toml` file which specifies the metaData. 
+
 Note: the test and train dataset are too large to be uploaded to this repo. Please see the link below to download the dataset. You need to put `line.toml` file in the downloaded train dataset in order for `build_courpse.py` to create the index.
 
 The test files can be obtained from https://drive.google.com/file/d/1FCW8fmcneow5yyDgApkPIGM-r2x6OFkm/view?usp=sharing
